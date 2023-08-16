@@ -13,3 +13,4 @@ git commit ……リポジトリに変更後のファイル、コミット(フ�
 git push ……GitHubにファイルをアップする<br>
 git init …….gitディレクトリ(リポジトリ、インデックスファイル、設定ファイル)の作成<br>
 git clone ……GitHub上のファイルをワークツリーと.Gitディレクトリ上にコピーする<br>
+git pull ……GitHub上の更新をローカルリポジトリとワークツリー上に保存する
